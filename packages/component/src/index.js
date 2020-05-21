@@ -7,3 +7,5 @@ console.log("Will create an alpha build");
 console.log("Bump up alpha to graduate");
 
 console.log("Pushing Minor release");
+
+console.log("Publish major");
