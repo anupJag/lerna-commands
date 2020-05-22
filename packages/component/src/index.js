@@ -9,3 +9,5 @@ console.log("Bump up alpha to graduate");
 console.log("Pushing Minor release");
 
 console.log("Publish major");
+
+console.log("Checking alpha to minor without coventional graduate");
