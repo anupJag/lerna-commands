@@ -9,7 +9,7 @@
     "lerna": "^3.21.0"
   },
   "scripts": {
-    "alpha": "lerna version --convention-prerelease --conventional-commits --yes",
+    "alpha": "lerna version --conventional-prerelease --conventional-commits --yes",
     "echo": "echo 'Running alpha' ",
     "release:alpha": "npm run echo && npm run alpha"
   }
