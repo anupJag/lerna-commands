@@ -15,3 +15,5 @@ console.log("Checking alpha to minor without coventional graduate");
 console.log(
   "Bumping alpha to minor with minor release and not as a conventional graduate"
 );
+
+console.log("Lerna with npm");

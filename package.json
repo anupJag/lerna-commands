@@ -7,5 +7,8 @@
   "license": "MIT",
   "devDependencies": {
     "lerna": "^3.21.0"
+  },
+  "scripts": {
+    "alpha": "lerna version minor --conventional-commits --yes"
   }
 }
