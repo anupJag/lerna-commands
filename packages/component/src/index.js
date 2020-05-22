@@ -17,3 +17,5 @@ console.log(
 );
 
 console.log("Lerna with npm");
+
+console.log("Lerna running prerelease");
